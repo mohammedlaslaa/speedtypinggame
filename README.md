@@ -1,4 +1,4 @@
-# Note at 5:11 - Speed Typing Game Part 7
+Speed Typing Game
 
 Quick start:
 
